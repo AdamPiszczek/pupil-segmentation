@@ -1,8 +1,8 @@
 # Pupil Segmentation - Academic Project
 
-<div style="text-align:center;">
-    <img src="assets/eye.png" alt="pupil_segmentation" style="width: 300px;"/>
-</div>
+<p align="center">
+  <img src="assets/eye.png" alt="pupil_segmentation" width="400" alt="fall_example">
+</p>
 
 ## Dependencies
 
@@ -62,10 +62,15 @@ The dataset also comes bundled with a `data.csv` file, which contains extra info
 
 ## Results Obtained
 - Improvement in loss function and classification accuracy of regions of interest was observed.
-![results_1](assets/1.png)
+<p align="center">
+  <img src="assets/1.png" alt="results_1" width="400" alt="fall_example">
+</p>
+
 - Transition to a new model resulted in longer network training time.
 - The use of YOLO models yielded promising results.
-![results_2](assets/2.png)
+<p align="center">
+  <img src="assets/2.png" alt="results_2" width="400" alt="fall_example">
+</p>
 - Classification was relatively weak, indicating the need for further refinement to improve the model's effectiveness.
 
 ## Project Execution
