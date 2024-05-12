@@ -1,0 +1,9 @@
+torch
+torchaudio
+torchvision
+opencv-python
+tqdm
+pycocotools
+black
+Pillow
+numpy

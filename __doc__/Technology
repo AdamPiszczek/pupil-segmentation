@@ -1,0 +1,17 @@
+Technological research
+
+Celem tego dokumentu jest spisanie technologii które są wykorzystywane obecnie w celu mierzenia odruchu źrenicznego na światło.
+
+1. Pupillometr NPi - 300 (https://neuroptics.com/npi-300-pupillometer/)
+Standardowe urządzenie do mierzenia odruchu świetlnego źrenicy
+Mierzy to co wypisano w dokumencie NPi
+Bada źrenicę w podczernieni unikając problemów z kolorem tęczówki
+Pozwala na badanie tylko jednej źrenicy na raz
+Ma opcję przechowywania zapisów w czasie, co pozwala na lepszą diagnostykę
+
+2. Reflex app (https://www.reflexapp.io/)
+Aplikacja na iOS pozwalająca na podobne pomiary jak NPi - 300.
+Przeglądając interface na screenach zauważono, że też nie mają dostępu do NPi i tylko korzystają z wielkości źrenicy w czasie (średniicy)
+AAplikacja droga i tylko na iOS, ale pozytywnym faktem jest to, że nie trzeba robić ultra bliskich filmów i robiono je z przedniej kamery aparatu
+
+Nie znaleziono innych mobilnych prozwiązań pupillometrii

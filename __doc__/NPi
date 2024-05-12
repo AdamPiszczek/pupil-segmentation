@@ -1,0 +1,26 @@
+Pupillary Light Reflex
+Czyli Źreniczny odruch na światło
+Został opatentowany - sposób mierzenia i klasyfikacji pomiaru i wgrany do pupillometrów firmy Neuroptics
+NPi - Neurological Pupillary index przyjmuje wartości od 0 do 4.9
+3<x<5 - pomiar poprawny - zdrowy odróch
+0<x<3 - pomiar niepoprawny - odruch utrudniony
+
+Mimo że nie posiadamy dokładnego algorytmu do obliczenia NPi, to wiadomo, jakie są wartości zmienne i na nich możemy się skupić w projekcie:
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3130361/bin/SNI-2-82-g003.jpg
+1. Min/Max rozmiar źrenicy  mm  Minimum obliczane u szczytu skurczu, Maximum w stanie początkowym
+2. Proccent Skurczu  %  (Maximum size - Minimum size)/Maximum size
+3. Opóźnienie  sekundy  Odcinek czasu pomiędzy pojawieniem się impulsu a początkiem reakcji źrenicy
+4. Prędkość skurczu  mm/s  Ilość skurczu/Czas skurczu = średnia wartość
+5. Maksymalna prędkość skurczu
+6. Dilation velocity - Prędkość rozkurczu - Ilość rozkurczu/czas rozkurczu 
+7. NPi - nieobliczalne
+
+ad 1 - Standardowe wielkości źrenicy u osoby dorosłej wcieniu to 4-8 mm, a w świetle 2-4 mm
+ad. 3 - mocne światło - 180-200 ms; słabe świało impulsu - >400 ms https://www.sciencedirect.com/topics/veterinary-science-and-veterinary-medicine/pupillary-response
+ad 3.5 - Dodatkowo Opóźnienie reakcji pomiędzy oczami powinno być w granicy 8.3 - 35 ms https://iovs.arvojournals.org/article.aspx?articleid=2123928
+ad. 4 https://iovs.arvojournals.org/article.aspx?articleid=2415474, https://iovs.arvojournals.org/article.aspx?articleid=2128115	V = 2,21 - 5,65 mm/s (mean value)
+ad. 6 ADV 0.38 - 1.38 mm/s https://bmcophthalmol.biomedcentral.com/articles/10.1186/s12886-020-01389-x
+
+Aby źrenica uległa stabilizaci, impuls świetlny powinien trwać 3-5 s. (https://www.ncbi.nlm.nih.gov/books/NBK381/)
+
+Powinniśmy mierzyć tylko te wartości w trakcie pomiarów
